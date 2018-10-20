@@ -1,0 +1,31 @@
+---
+title: "Token plots"
+author: "Yitao Li"
+date: 2018-10-19T21:13:14-05:00
+categories: ["R"]
+tags: ["plot", "token"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Here is a list of token plots with the rolling depth of betti numbers.
+
+```{r echo=FALSE}
+tkplots = list.files("C:\\Users\\tony\\Documents\\R_Projects\\EtherWeb\\tokenPlots")
+
+baseURL = "https://ethereumcurves.github.io/tokens/"
+
+htmllist = paste0(baseURL,tkplots)
+
+tks = stringr::str_extract(tkplots, "^[^.]+")
+
+tklist = paste0("[",tks,"]","(",htmllist,")")
+
+```
+
+**`r tklist`**
+
+
+

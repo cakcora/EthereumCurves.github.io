@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ethereum Curves</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Ethereum Curves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yitaoli416@gmail.com (Yitao &amp; Cuneyt)</managingEditor>
+    <webMaster>yitaoli416@gmail.com (Yitao &amp; Cuneyt)</webMaster>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team members</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yitaoli416@gmail.com (Yitao &amp; Cuneyt)</author>
+      <guid>/page/about/</guid>
+      <description>Yitao Li Research Asistant at UTD.
+Cuneyt G Akcora Postdoctoral Fellow in the departments of Computer Science and Statistics at the University of Texas at Dallas.
+Umar D. Islambekov Research Asistant at UTD
+Ekaterina Smirnova Assistant professor at VCU
+Yulia R. Gel Professor
+Department of Mathematical Sciences University of Texas at Dallas
+Murat Kantarcioglu Professor of Computer Science, University of Texas at Dallas</description>
+    </item>
+    
+  </channel>
+</rss>
